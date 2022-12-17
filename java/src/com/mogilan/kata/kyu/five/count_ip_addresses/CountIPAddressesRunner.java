@@ -1,4 +1,4 @@
-package com.mogilan.kata.kyu.five;
+package com.mogilan.kata.kyu.five.count_ip_addresses;
 
 public class CountIPAddressesRunner {
     public static void main(String[] args) {

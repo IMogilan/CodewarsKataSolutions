@@ -1,4 +1,4 @@
-package com.mogilan.kata.kyu.four;
+package com.mogilan.kata.kyu.four.strip_comments;
 
 import java.util.ArrayList;
 import java.util.Arrays;

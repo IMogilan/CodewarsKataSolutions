@@ -1,6 +1,4 @@
-package com.mogilan.kata.kyu.four;
-
-import java.util.SortedMap;
+package com.mogilan.kata.kyu.four.strip_comments;
 
 public class StripCommentsRunner {
     public static void main(String[] args) {

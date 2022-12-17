@@ -1,4 +1,4 @@
-package com.mogilan.kata.kyu.five;
+package com.mogilan.kata.kyu.five.count_ip_addresses;
 
 /* https://www.codewars.com/kata/526989a41034285187000de4
 
